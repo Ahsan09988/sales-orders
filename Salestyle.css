@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}
+.body{
+    background-color: rgb(205, 232, 248);
+}
+.main-table{
+    display: table;
+}
+.table-row{
+    display: table-row;
+   text-align: center; 
+}
+.table-cell{
+    display: table-cell;
+    border-bottom: 10px;
+width: 150px;
+padding-top: 10px;
+    background-color: rgb(255, 255, 255);
+    border-bottom: 0 solid rgb(205, 232, 248);
+}
+
+
+.green{
+    color: rgb(11, 204, 11);
+    background-color: rgb(220, 253,220);
+    width: 100px;
+    font-weight: bolder;
+    margin-left: 150px;
+    font-size: 15px;
+    border-radius: 10px;
+    display: circal;
+}
+.blue{
+    color: rgb(25, 158, 211);
+    background-color: rgb(212, 233, 253);
+   width: 100px; 
+    font-weight: bolder;
+font-size: 12px;
+border-radius: 10px;
+margin-left: 150px;
+font-family: cursive;
+}
+.yellow{
+    color: rgb(235, 198, 34);
+    background-color: rgb(246, 252, 223);
+font-family: cursive;
+width: 200px;
+border-radius: 10px;
+margin-left: 150px;
+font-weight: bolder;
+    
+.dot
+{
+    height: 10px;
+    width: 10px;
+    background-color: rgb(58, 252, 58);
+    border-radius: 100%;
+    display: inline-block;
+}
+.dto{
+    height: 10px;
+    width: 10px;
+    background-color: rgb(56, 56, 156);
+    border-radius: 100%;
+    display: inline-block;
+}
+.dt{
+    height: 10px;
+    width: 10px;
+    background-color: rgb(226, 226, 31);
+    border-radius: 100%;
+    display: inline-block;
+}
+.tick{
+    color: rgb(18, 184, 156);
+    background-color: lime;
+
+}
